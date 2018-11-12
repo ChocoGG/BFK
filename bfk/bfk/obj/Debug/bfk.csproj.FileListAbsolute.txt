@@ -1,0 +1,7 @@
+C:\Users\timo.beyer\Desktop\bfk\bfk\bin\Debug\bfk.exe.config
+C:\Users\timo.beyer\Desktop\bfk\bfk\bin\Debug\bfk.exe
+C:\Users\timo.beyer\Desktop\bfk\bfk\bin\Debug\bfk.pdb
+C:\Users\timo.beyer\Desktop\bfk\bfk\obj\Debug\bfk.csprojAssemblyReference.cache
+C:\Users\timo.beyer\Desktop\bfk\bfk\obj\Debug\bfk.csproj.CoreCompileInputs.cache
+C:\Users\timo.beyer\Desktop\bfk\bfk\obj\Debug\bfk.exe
+C:\Users\timo.beyer\Desktop\bfk\bfk\obj\Debug\bfk.pdb
